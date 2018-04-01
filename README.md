@@ -202,7 +202,5 @@ If you do, congratulations! You have now setup a masternode. If you do not, plea
 
 # Contact, donation and thanks
 
-* Contact me directly VIA discord. ID: Visco#9999
+* Contact the Guide author directly Via Discord.. ID:  Visco#9999
 * Special thanks Zoldur for his amazing Shell installation script. 
-
-***CBT Donation Address:*** `CNFCgxKaVA8SumYPy6xtqz4z5fyx3hsjnE`
