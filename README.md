@@ -200,7 +200,9 @@ Click "OK"
 If you do, congratulations! You have now setup a masternode. If you do not, please contact support and they will assist you.  
 ***
 
-# Contact, donation and thanks
+# Contact, credit and thanks
 
-* Contact the Guide author directly Via Discord.. ID:  Visco#9999
+* Contact me directly Via Discord.. ID:  Visco#9999
 * Special thanks Zoldur for his amazing Shell installation script. 
+
+***Author; Visco***
