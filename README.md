@@ -203,6 +203,6 @@ If you do, congratulations! You have now setup a masternode. If you do not, plea
 # Contact, credit and thanks
 
 * Contact me directly Via Discord.. ID:  Visco#9999
-* Special thanks Zoldur for his amazing Shell installation script. 
+* Special thanks to @zoldur for his amazing Shell installation script!
 
 ***Author; Visco***
